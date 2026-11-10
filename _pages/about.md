@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 
-I am a PhD candidate in Statistics at Cornell University, advised by Samuel Wang. I am interested in graphical models and causal discovery, and statistical genetics. My current research focuses on 
+I am a Ph.D. candidate in Statistics at Cornell University, advised by Samuel Wang. I am interested in graphical models, causal discovery, and statistical genetics. Currently, my work focuses on testing differences between causal models and developing a computational method to reduce noise in genomic sequencing data.
 
-Before Cornell, I worked in . I completed my B.A. in Statistics and Economics at the Hebrew University of Jerusalem
+Prior to Cornell, I worked as a Junior Statistician at Kaplan Medical Center and as an economics research assistant. I earned my B.A. in Statistics and Economics (magna cum laude) from the Hebrew University of Jerusalem.
