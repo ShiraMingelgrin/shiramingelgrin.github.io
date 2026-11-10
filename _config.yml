@@ -23,7 +23,7 @@ repository               : "shiramingelgrin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "shira.jpg"
+  avatar           : "shira.png"
   name             : "Shira Mingelgrin"
   bio              : "Statistics PhD Candidate"
   employer         : "Cornell University"
