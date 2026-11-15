@@ -35,7 +35,7 @@ Work experience
 
 - 2022 – 2024: Graduate Research Assistant
   * Cornell University, Department of Psychology
-  * Applied statistics, ShinyApp
+  * Applied statistics, [ShinyApp](https://sm2267.shinyapps.io/Missing_Mechanism/)
   * Supervisor: Felix Thoemmes, Ph.D.
 
 
