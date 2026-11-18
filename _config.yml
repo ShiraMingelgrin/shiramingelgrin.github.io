@@ -62,6 +62,8 @@ author:
 publication_category:
   recent:
     title: 'Recent Papers'
+  early:
+    title: 'Earlier Work'
 #  manuscripts:
 #    title: 'Journal Articles'    
 #  conferences:
